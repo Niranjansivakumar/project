@@ -1,0 +1,25 @@
+[{
+	"sign-up-firstname": "fafads",
+	"sign-up-middlename": "fadsfads",
+	"sign-up-lastname": "fadsfasd",
+	"sign-up-usrname": "agnal1",
+	"sign-up-password1": "123@123",
+	"sign-up-password2": "123@123",
+	"sign-up-dob": "",
+	"sign-up-email": "agnal.v.paul@gmail.com",
+	"sign-up-mobile": "",
+	"sign-up-address1": "",
+	"sign-up-town": ""
+}, {
+	"sign-up-firstname": "fafads",
+	"sign-up-middlename": "fadsfads",
+	"sign-up-lastname": "fadsfasd",
+	"sign-up-usrname": "agnal2",
+	"sign-up-password1": "abc@123",
+	"sign-up-password2": "abc@123",
+	"sign-up-dob": "",
+	"sign-up-email": "agnal.vincent.paul@gmail.com",
+	"sign-up-mobile": "",
+	"sign-up-address1": "",
+	"sign-up-town": ""
+}]

@@ -1,0 +1,105 @@
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+.login-div-h{
+    height: 500px;
+}
+.login-back-clr{
+    background-color: darkturquoise;
+}
+.login-border{
+ border: solid;
+ border-width: 0.5px;   
+}
+.login-margin-top{
+    margin-top:5%;
+}
+.login-inf-icon{
+    font-size: 12px;
+    color:red;
+}
+.login-logo-div{
+    height: 25%;
+}
+.login-logo{
+    margin:25% 30% 30% 30%;
+    height: 100px;
+    width:100px;
+    margin-top:25px;
+}
+.usr-validate{
+    margin-bottom: 5px;
+}
+.validate-option{
+    margin-top:-50px;
+}
+.login-sign{
+    font-size: 12px;
+}
+.marg-5{
+    margin-left:20%;
+}
+.marg-top-3{
+    margin-top:5%;
+}
+.font-white{
+    color:white;
+}
+.desc-div{
+    font-size: 17px;
+    text-align: justify;
+}
+.marg-top-5{
+    margin-top:15%;
+}
+.bck-clr{
+    background-color: antiquewhite;
+}
+/* .bck-clr{
+    background-image: url("../images/chemicaleng_biochemistryii_chemeng283.jpg");
+    background-repeat: no-repeat;
+} */
+.sign-up-txt{
+    width: 100%;
+}
+.red-border{
+    border: solid;
+    border-color:red;
+}
+.marq-txt{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+.marg-top-15{
+    margin-top:15px;
+}
+.sgn-gnd-spn{
+    font-size: 18px;
+}
+.sgn-radio{
+    margin-left:5px !important;
+    margin-top:4px !important
+}
+.sgn-gnd-spn2{
+    margin-left: 10px;
+}
+.sgn-up-select{
+    height: 25px;
+}
+.val-lab-1{
+    width: 100%;
+    color:red;
+}
+.hid{
+    display:none;
+}
+.shw{
+    display:block;
+}
+.hd-usr-dp{
+    float:right;
+}
